@@ -1,9 +1,11 @@
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtdGlpaWs3YWNvbmZkNWcxdW0xcWgxOGkxZmhwNGVhcTkxNzZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" align="center" height="" width="100" />
-</div>  
+![Header](./github-header-image.png)
   
 
 ### <div align="center">Sou Oscar Marques, desenvolvedor Back-end desde 2018👨‍💻</div>  
+
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtdGlpaWs3YWNvbmZkNWcxdW0xcWgxOGkxZmhwNGVhcTkxNzZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" align="center" height="" width="100" />
+</div>  
   
 
 - 🔭Trabalhando atualmente em projetos valiosos que mudam a vida das pessoas  
