@@ -14,13 +14,13 @@
 - 🌱 Aprendendo atualmente Java e C#  
   
 
-- ⚡ Fato sobre mim: adoro resolver questões difíceis do leetcode😅  
+- 🚀 Co-Founder da Obixy 
   
 
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,8 +68,18 @@
 
 <br/>  
 
+## Badges
 
-## Connect with me  
+<div align="center">
+<a href="https://leetcode.com/fj7Ls7JNE2/" target="_blank">
+<img src=https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffj7Ls7JNE2&logo=leetcode&logoColor=yellow alt=leetcode style="margin-bottom: 5px;" />
+</a> 
+</div>  
+  
+
+<br/>  
+
+## Converse comigo
 <div align="center">
 <a href="https://github.com/oscarkara" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -80,6 +90,9 @@
 <a href="https://instagram.com/oscarmdan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/fj7Ls7JNE2/" target="_blank">
+<img src=https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffj7Ls7JNE2&logo=leetcode&logoColor=yellow alt=leetcode style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
